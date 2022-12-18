@@ -1,0 +1,43 @@
+.h1{
+    text-align: center;
+    background-color: rgb(185, 234, 234);
+    border-radius: 40px;
+    font-size: 50px;
+    text-decoration: solid;
+
+
+
+}
+.p1{
+    color: aqua;
+    direction: ltr;
+}
+body{
+    background-color: rgb(232, 206, 210);
+    background-image:  url(https://wallpapers.com/images/hd/kfc-red-background-5wr1ar71nrfzzfkq.jpg);
+    background-repeat: no-repeat;
+    background-image: solid 20px;
+    background-size: cover;
+  
+
+}
+img{
+     border:  solid 10px;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+ol{
+    list-style-type: square;
+    list-style-image:none;
+    list-style-position: inside;
+}
+
+.h2{
+    background-color: rgb(235, 235, 146);
+    border-radius: 80px;;
+    border-bottom-color: white;
+    border-width: 50.50;
+    font-size: 30px;
+}
